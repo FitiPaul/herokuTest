@@ -7,7 +7,7 @@ echo 'This ', 'string ', 'was ', 'made ', 'with multiple parameters.', "\n";
 echo 'This ' . 'string ' . 'was ' . 'made ' . 'with concatenation.' . "\n";
 
 // 不会有新行或者空格；下面将会在一行中输出“helloworld”
-echo "hello";
+echo "hello"; 
 echo "world";
  
 // 跟上面一样
